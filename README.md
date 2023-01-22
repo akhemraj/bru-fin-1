@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Sample NFT mint and transfer 
 
 This project demonstrates a basic ERC721 token minting and transfer. It comes with a simple ERC721 contract and  UI for that contract interaction.
 
